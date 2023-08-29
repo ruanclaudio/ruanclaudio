@@ -8,7 +8,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanclaudio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanclaudio&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanclaudio&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
@@ -41,6 +41,4 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/ruanclaudio/ruanclaudio/blob/output/github-contribution-grid-snake.svg)
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
