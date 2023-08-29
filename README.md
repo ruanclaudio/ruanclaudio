@@ -1,9 +1,10 @@
-  <p align="center">
-    <h3 align="center">⌨️ Ruan Cláudio ⌨️</h3>
-  </p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer; Studying Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
-  </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<p align="center">
+  <h3 align="center">⌨️ Ruan Cláudio ⌨️</h3>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer; Studying Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
+</p>
   
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true)
 ![Ruan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true&layout=compact)
@@ -35,6 +36,12 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ruanclaudio_)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanclaudio4@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ruanclaudio-/)
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ruanclaudio}/count.svg" /></p> 
+<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
