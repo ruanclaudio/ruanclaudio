@@ -5,9 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer; Studying Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
 </p>
-  
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true)
-![Ruan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true&layout=compact)
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=midnight-purple%">
+</div>
 <br>
 
 <div  align="center"> 
