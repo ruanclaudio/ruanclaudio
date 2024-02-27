@@ -28,7 +28,6 @@
       <h3>Studying in this moment</h3>
       <img align="center" height="30" width="40" alt="django-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
       <img align="center" height="30" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-      <img align="center" height="30" width="40" alt="mysql-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
       <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   </div>
