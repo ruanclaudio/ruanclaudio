@@ -3,7 +3,7 @@
   <h3 align="center">⌨️ Ruan Cláudio ⌨️</h3>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer; Studying Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Back-end software developer; Studying Computer Science; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
 </p>
 
 <div>
