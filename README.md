@@ -1,51 +1,115 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-<p align="center">
-  <h3 align="center">⌨️ Ruan Cláudio ⌨️</h3>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack software developer; Studying Computer Science; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
-</p>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanclaudio&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanclaudio&layout=compact&langs_count=16&theme=midnight-purple%">
-</div>
-<br>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-      <h1 align="center">Stacks</h1>
-      <br>
-      <img align="left" height="300" alt="coding-time" src="code.gif">  
-      <h3>Main Stacks:</h3>
-      <img align="center" height="30" width="100" alt="python-icon"  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-      <img align="center" height="30" width="100" alt="django-icon"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-      <img align="center" height="30" width="100" alt="drf-icon"  src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
-      <img align="center" height="30" width="100" alt="react-icon"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img align="center" height="30" width="100" alt="js-icon"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img align="center" height="30" width="100" alt="node-icon"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-      <h3>Secondary Stacks:</h3>
-      <img align="center" height="30" width="100" alt="docker-icon"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-      <img align="center" height="30" width="100" alt="digitalocean-icon"  src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
-      <img align="center" height="30" width="100" alt="firebase-icon"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-      <img align="center" height="30" width="100" alt="bootstrap-icon"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <h3>Used databases:</h3>
-      <img align="center" height="30" width="100" alt="psql-icon"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img align="center" height="30" width="100" alt="sqlite-icon"  src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-      <img align="center" height="30" width="100" alt="mysql-icon"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    
-  </div>
-    
-  <br>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devruanclaudioofc@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ruanclaudio-/)
-</div>
+<img width="100%" src="assets/header.svg" alt="Ruan Cláudio - Software Engineer" />
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ruanclaudio}/count.svg" /></p> 
-<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9304F7&center=true&vCenter=true&width=520&height=40&lines=Software+Engineer;Passionate+about+code+and+astrophysics;Always+learning+new+things!" alt="Typing SVG" />
+
+<img width="100%" src="assets/rocket.svg" alt="Rocket flying through space" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ruanclaudio-/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devruanclaudioofc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruanclaudio)
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+---
+
+### 👋 About me
+
+```python
+class RuanClaudio(SoftwareEngineer):
+    """Backend-heavy full-stack engineer. Scalable systems and AI integrations."""
+
+    def __init__(self):
+        self.role = "Software Engineer II, Full-Stack"
+        self.experience = "5+ years"
+        self.education = "B.Sc. Computer Science, UNIFACS"
+        self.languages = ["Portuguese (native)", "English (B2)", "Spanish (A2)"]
+
+        self.backend = ["Python", "FastAPI", "Django", "Flask", "SQLAlchemy", "Java"]
+        self.frontend = ["React", "React Native", "TypeScript", "Bootstrap"]
+        self.data = ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"]
+        self.infra = ["Docker", "Nginx", "Gunicorn", "GCP", "CI/CD", "Grafana"]
+
+        self.interests = ["Clean architecture", "Observability", "Astrophysics"]
+
+    def current_focus(self) -> str:
+        return "Multi-agent LLM workflows with guardrails that actually hold."
+
+    def say_hi(self) -> None:
+        print("Thanks for dropping by! Let's build something together.")
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend & APIs**
+
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,django,flask,java,nodejs&theme=dark)](https://skillicons.dev)
+
+**Frontend & Mobile**
+
+[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark)](https://skillicons.dev)
+
+**Infrastructure & DevOps**
+
+[![Infra](https://skillicons.dev/icons?i=docker,nginx,gcp,grafana,git,github,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### ✨ Highlights
+
+<img width="100%" src="assets/highlights.svg" alt="Highlights" />
+
+---
+
+### 📊 GitHub Streak
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=ruanclaudio&hide_border=true&background=00000000&ring=8F0D87&fire=9304F7&currStreakLabel=8F0D87&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=8F0D87" alt="GitHub streak" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruanclaudio/ruanclaudio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruanclaudio/ruanclaudio/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ruanclaudio/ruanclaudio/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **IZap.ai** | AI-powered conversational platform for business-customer interactions over WhatsApp. Foundational engineer on the core architecture, focused on scalability and high-performance message processing. | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker` `Redis` `Grafana` |
+
+---
+
+<div align="center">
+
+**Visitors Count**
+
+![Profile views](https://komarev.com/ghpvc/?username=ruanclaudio&color=8F0D87&style=for-the-badge&label=VISITS)
+
+</div>
+
+<img width="100%" src="assets/footer.svg" alt="" />
