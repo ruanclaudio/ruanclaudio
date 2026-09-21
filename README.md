@@ -70,6 +70,8 @@ class RuanClaudio(SoftwareEngineer):
 
 <img width="100%" src="assets/highlights.svg" alt="Highlights" />
 
+<img width="100%" src="assets/tagline.svg" alt='"First, solve the problem. Then, write the code." — John Johnson' />
+
 ---
 
 ### 📊 GitHub Streak
@@ -85,7 +87,7 @@ class RuanClaudio(SoftwareEngineer):
 ### 🐍 Contribution Snake
 
 <div align="center">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruanclaudio/ruanclaudio/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruanclaudio/ruanclaudio/output/github-snake.svg" />
@@ -94,15 +96,7 @@ class RuanClaudio(SoftwareEngineer):
 
 </div>
 
----
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **IZap.ai** | AI-powered conversational platform for business-customer interactions over WhatsApp. Foundational engineer on the core architecture, focused on scalability and high-performance message processing. | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker` `Redis` `Grafana` |
-
----
 
 <div align="center">
 
